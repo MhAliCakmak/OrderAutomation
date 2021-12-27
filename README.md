@@ -14,6 +14,9 @@ It contains many features such as customer order, order cancellation, order addr
 + You can make recommendations and suggestions in the [Discussions](https://github.com/mehmet5643/Order-automation/discussions) section.
 + To access the forms after cloning the file, opening OrderAutomation.sln will lead you to the forms.
 
+### Future Developments
+We will integrate **Blockchain** technology into our application to ensure the security of the system. In this way, we will have access to unsuccessful and reliable information about cyber attacks.
+
 ### For developer
 > + [Visiual studio](https://visualstudio.microsoft.com/tr/downloads/) 
 > + [Mssql](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads) or [Mysql](https://dev.mysql.com/downloads/installer/)
@@ -21,7 +24,7 @@ It contains many features such as customer order, order cancellation, order addr
 
 
 ### Teammates
-1. [Mehmet Ali Cakmak](https://github.com/mehmet5643)
+1. [Mehmet Ali Cakmak](https://github.com/mehmet5643)     [Linkedin](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak-82a1211b9/)
 2. [Alparslan Aydogan](https://github.com/Alparslan524)
 3. [Hakan Bayezid Habeş](https://github.com/HakanBayazitHabes)
 4. [Murat Koseli](https://github.com/MuratKoseli)
@@ -49,6 +52,8 @@ Bu projemizde bir sipariş otomasyonu hazırladık .Hazırladağımız bu proje 
 + [Discussions](https://github.com/mehmet5643/Order-automation/discussions) kısmında tavsiye ve önerilerde bulunabilirsiniz.
 + Dosyayı klonladıktan sonra formlara ulaşmak için OrderAutomation.sln açmanız sizi formlara ulaştıracaktır.
 
+### Gelecekteki Geliştirmeler
+Sistemin güvenliğini sağlamak amacıyla **Blockchain** teknoljisini uygulamamıza entegre edecez . Bu sayede yapılan siber saldırıların başarısız ve güvenilir bilgiye ulaşmış olacağız.
 
 ### Gelistiriciler için
 > + [Visiual studio](https://visualstudio.microsoft.com/tr/downloads/) 
@@ -58,7 +63,7 @@ Bu projemizde bir sipariş otomasyonu hazırladık .Hazırladağımız bu proje 
 
 
 ### Ekip Arkadaşları
-1. [Mehmet Ali Çakmak](https://github.com/mehmet5643)
+1. [Mehmet Ali Çakmak](https://github.com/mehmet5643) [Linkedin](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak-82a1211b9/)
 2. [Alparslan Aydoğan](https://github.com/Alparslan524)
 3. [Hakan Bayezid Habeş](https://github.com/HakanBayazitHabes)
 4. [Murat Köseli](https://github.com/MuratKoseli)
