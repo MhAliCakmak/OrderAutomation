@@ -11,7 +11,7 @@ It contains many features such as customer order, order cancellation, order addr
 
 #### Technical Information
 + By clicking on the branches in our project, you can browse and download the relevant branch.
-+ You can make recommendations and suggestions in the [Discussions](https://github.com/mehmet5643/Order-automation/discussions) section.
++ You can make recommendations and suggestions in the [Discussions](https://github.com/mehmet5643/OrderAutomation/discussions) section.
 + To access the forms after cloning the file, opening OrderAutomation.sln will lead you to the forms.
 
 ### Future Developments
@@ -49,7 +49,7 @@ Bu projemizde bir sipariş otomasyonu hazırladık .Hazırladağımız bu proje 
 
 #### Teknik Bilgilendirme
 + Projemizde bulunan branchler bölümüne tıklayarak ilgili branche  göz gezdirebilir ve indiribelirsiniz.
-+ [Discussions](https://github.com/mehmet5643/Order-automation/discussions) kısmında tavsiye ve önerilerde bulunabilirsiniz.
++ [Discussions](https://github.com/mehmet5643/OrderAutomation/discussions) kısmında tavsiye ve önerilerde bulunabilirsiniz.
 + Dosyayı klonladıktan sonra formlara ulaşmak için OrderAutomation.sln açmanız sizi formlara ulaştıracaktır.
 
 ### Gelecekteki Geliştirmeler
