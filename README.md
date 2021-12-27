@@ -7,7 +7,7 @@ In this project, we have prepared an order automation. This project is based on 
 > The main purpose is to enable the customer to place an order quickly, simply and clearly. It aims to host features such as adding-removing products to the system, product updates, address updates, and features that can be added later in the admin section.
 
 #### **Scope of the Project:**
-It contains many features such as customer order, order cancellation, order address update, product addition, product removal, product update.
+>It contains many features such as customer order, order cancellation, order address update, product addition, product removal, product update.
 
 #### Technical Information
 + By clicking on the branches in our project, you can browse and download the relevant branch.
