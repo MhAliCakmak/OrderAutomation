@@ -25,8 +25,8 @@ We will integrate **Blockchain** technology into our application to ensure the s
 
 ### Teammates
 1. [Mehmet Ali Cakmak](https://github.com/mehmet5643)     [Linkedin](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak-82a1211b9/)
-2. [Alparslan Aydogan](https://github.com/Alparslan524)
-3. [Hakan Bayezid Habeş](https://github.com/HakanBayazitHabes)
+2. [Alparslan Aydogan](https://github.com/Alparslan524)   
+3. [Hakan Bayazıt Habeş](https://github.com/HakanBayazitHabes) [Linkedin](https://www.linkedin.com/in/hakan-bayaz%C4%B1t-habe%C5%9F-157844221/)
 4. [Murat Koseli](https://github.com/MuratKoseli)
 
 ### Sections from our application
