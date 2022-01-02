@@ -65,7 +65,7 @@ Sistemin güvenliğini sağlamak amacıyla **Blockchain** teknoljisini uygulamam
 ### Ekip Arkadaşları
 1. [Mehmet Ali Çakmak](https://github.com/mehmet5643) [Linkedin](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak-82a1211b9/)
 2. [Alparslan Aydoğan](https://github.com/Alparslan524)
-3. [Hakan Bayezid Habeş](https://github.com/HakanBayazitHabes)
+3. [Hakan Bayazıt Habeş](https://github.com/HakanBayazitHabes)[Linkedin](https://www.linkedin.com/in/hakan-bayaz%C4%B1t-habe%C5%9F-157844221/)
 4. [Murat Köseli](https://github.com/MuratKoseli)
 
 ## Uygulamamızdan kesitler
